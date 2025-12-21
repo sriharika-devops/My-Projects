@@ -1,19 +1,19 @@
-# My-Projects
+Project Title:
 
-# 🛒 Ecommerce Microservice – Dockerized with Nginx & Jenkins CI
+CI/CD Pipeline for Dockerized E-commerce Application using Jenkins
 
-## 📌 Project Overview
-This project demonstrates a real-world DevOps workflow where a Node.js microservice
-is containerized using Docker, exposed via Nginx reverse proxy, and automated using
-Jenkins CI pipeline.
+Description:
 
-## 🏗 Architecture
-Client → Nginx → Node.js Product Service → Docker Containers
+Designed and implemented a CI/CD pipeline on AWS EC2 using Jenkins, integrated with GitHub for source control. Containerized a Node.js application using Docker and automated build and deployment processes. Troubleshot real-world issues including executor starvation, disk space constraints, Git authentication, and network security configurations.
 
-## 🧰 Tech Stack
-- Node.js
-- Docker & Docker Compose
-- Nginx (Reverse Proxy)
-- Jenkins (CI)
-- Git & GitHub
-- Linux
+Tech Stack:
+
+Jenkins
+
+GitHub
+
+Docker
+
+Amazon EC2 (Amazon Linux)
+
+Linux (Shell)
